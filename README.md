@@ -3,8 +3,10 @@
 
 ## File Structure
 * Calculator
-  ** Addition
-  ** Subtraction
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Division
 * CsvReader
 * Decorators
 * Fileutilities
