@@ -13,20 +13,20 @@
 
 * Statistics function created here are:
 
- * Population Mean
- * Median
- * Mode
- * Population Standard Deviation
- * Variance of population proportion
- * Z-Score
- * Population Correlation Coefficient
- * Confidence Interval
- * Population Variance
- * P Value
- * Proportion
- * Sample Mean
- * Sample Standard Deviation
- * Variance of sample proportion
+  * Population Mean
+  * Median
+  * Mode
+  * Population Standard Deviation
+  * Variance of population proportion
+  * Z-Score
+  * Population Correlation Coefficient
+  * Confidence Interval
+  * Population Variance
+  * P Value
+  * Proportion
+  * Sample Mean
+  * Sample Standard Deviation
+  * Variance of sample proportion
  
  ### References
  - https://www.cs.utah.edu/~germain/PPS/Topics/random_numbers.html
@@ -48,6 +48,9 @@
    * Confidence Interval
   
  * Monisha
+   * Division
+   * Square
+   * Square Root
    * Population Variance
    * P Value
    * Proportion
