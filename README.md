@@ -32,28 +32,28 @@
  - https://www.cs.utah.edu/~germain/PPS/Topics/random_numbers.html
  - https://www.geeksforgeeks.org/randomly-select-n-elements-from-list-in-python/
  
- Contributed by Vivek and Monisha:
- * Vivek
-  * Addition
-  * Subtraction
-  * Multiplication
-  * Population Mean
-  * Median
-  * Mode
-  * Population Standard Deviation
-  * Variance of population proportion
-  * Z-Score
-  * Population Correlation Coefficient
-  * Confidence Interval
-  
+ ### Contributed by Vivek and Monisha:
  
+ * Vivek
+   * Addition
+   * Subtraction
+   * Multiplication
+   * Population Mean
+   * Median
+   * Mode
+   * Population Standard Deviation
+   * Variance of population proportion
+   * Z-Score
+   * Population Correlation Coefficient
+   * Confidence Interval
+  
  * Monisha
-  * Population Variance
-  * P Value
-  * Proportion
-  * Sample Mean
-  * Sample Standard Deviation
-  * Variance of sample proportion
+   * Population Variance
+   * P Value
+   * Proportion
+   * Sample Mean
+   * Sample Standard Deviation
+   * Variance of sample proportion
 
 
 
